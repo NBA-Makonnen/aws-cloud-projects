@@ -1,6 +1,6 @@
 # AWS Cloud Projects
 
-This repository documents AWS cloud computing projects completed by Makonnen Mulima. Each project is organized in its own folder with an architecture diagram, AWS services used, implementation notes, security considerations, and project outcomes.
+This repository documents my AWS cloud computing projects. Each project is organized in its own folder with an architecture diagram, AWS services used, implementation notes, security considerations, and project outcomes.
 
 ## Projects
 
